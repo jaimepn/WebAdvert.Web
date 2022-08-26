@@ -1,4 +1,5 @@
 /WebAdvert.Web/appsettings.json
+/WebAdvert.Web/appsettings.*.json
 /WebAdvert.Web/bin/
 /WebAdvert.Web/wwwroot/
 /WebAdvert.Web/obj/
